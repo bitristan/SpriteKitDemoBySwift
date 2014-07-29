@@ -7,6 +7,6 @@ The demo has 2 scene, one for the main game scene and the other is the result sc
 When you hit more than 20 monsters, it will jump to the result scnene and show you win the game. Otherwise when more than 5 monsters escape left of the screen, it will jump to the result scene and show lose.
 
 The screenshots was like this:
-[id]: ./Screenshot/main.png "Main"
-[id]: ./Screenshot/success.png "Success"
-[id]: ./Screenshot/lose.png "Lose"
+![Screenshot](https://github.com/Tinker-S/SpriteKitDemoBySwift/blob/master/Screenshot/game.png) "Main"
+![Screenshot](https://github.com/Tinker-S/SpriteKitDemoBySwift/blob/master/Screenshot/success.png) "Success"
+![Screenshot](https://github.com/Tinker-S/SpriteKitDemoBySwift/blob/master/Screenshot/lose.png) "Lose"
