@@ -5,3 +5,8 @@ A tutorial on SpriteKit for beginners. Coding by swift. The online tutorial is h
 
 The demo has 2 scene, one for the main game scene and the other is the result scnene.
 When you hit more than 20 monsters, it will jump to the result scnene and show you win the game. Otherwise when more than 5 monsters escape left of the screen, it will jump to the result scene and show lose.
+
+The screenshots was like this:
+[id]: ./Screenshot/main.png "Main"
+[id]: ./Screenshot/success.png "Success"
+[id]: ./Screenshot/lose.png "Lose"
